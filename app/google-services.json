@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327998351633",
+    "project_id": "noteninja-e78d4",
+    "storage_bucket": "noteninja-e78d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327998351633:android:916cc8fede3a6ef61e44b0",
+        "android_client_info": {
+          "package_name": "com.example.noteninja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxmbUjW7ZosjqFX3UIciTg5jGsSIf8oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
